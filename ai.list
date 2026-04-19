@@ -1,0 +1,108 @@
+# =============================================================================
+# OpenAI / ChatGPT（含 ChatGPT、OpenAI API、周边依赖）
+# =============================================================================
+HOST,browser-intake-datadoghq.com,AI
+HOST,chat.openai.com.cdn.cloudflare.net,AI
+HOST,openai-api.arkoselabs.com,AI
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI
+HOST,openaicomproductionae4b.blob.core.windows.net,AI
+HOST,production-openaicom-storage.azureedge.net,AI
+HOST,static.cloudflareinsights.com,AI
+HOST-SUFFIX,ai.com,AI
+HOST-SUFFIX,algolia.net,AI
+HOST-SUFFIX,api.statsig.com,AI
+HOST-SUFFIX,auth0.com,AI
+HOST-SUFFIX,chatgpt.com,AI
+HOST-SUFFIX,chatgpt.livekit.cloud,AI
+HOST-SUFFIX,client-api.arkoselabs.com,AI
+HOST-SUFFIX,events.statsigapi.net,AI
+HOST-SUFFIX,featuregates.org,AI
+HOST-SUFFIX,host.livekit.cloud,AI
+HOST-SUFFIX,identrust.com,AI
+HOST-SUFFIX,intercom.io,AI
+HOST-SUFFIX,intercomcdn.com,AI
+HOST-SUFFIX,launchdarkly.com,AI
+HOST-SUFFIX,oaistatic.com,AI
+HOST-SUFFIX,oaiusercontent.com,AI
+HOST-SUFFIX,observeit.net,AI
+HOST-SUFFIX,openai.com,AI
+HOST-SUFFIX,openaiapi-site.azureedge.net,AI
+HOST-SUFFIX,openaicom.imgix.net,AI
+HOST-SUFFIX,segment.io,AI
+HOST-SUFFIX,sentry.io,AI
+HOST-SUFFIX,stripe.com,AI
+HOST-SUFFIX,turn.livekit.cloud,AI
+HOST-KEYWORD,openai,AI
+IP-CIDR,24.199.123.28/32,AI
+IP-CIDR,64.23.132.171/32,AI
+IP-ASN,20473,AI
+# OpenAI Prism（在线 LaTeX 等）
+HOST-SUFFIX,crixet.com,AI
+
+# =============================================================================
+# Anthropic / Claude（官网、API、Claude 应用）
+# =============================================================================
+HOST,servd-anthropic-website.b-cdn.net,AI
+HOST-SUFFIX,anthropic.com,AI
+HOST-SUFFIX,claude.ai,AI
+HOST,cdn.usefathom.com,AI
+HOST-SUFFIX,claude.com,AI
+HOST-SUFFIX,claudeusercontent.com,AI
+HOST-SUFFIX,sentrian.io,AI
+
+# =============================================================================
+# Google Gemini（Gemini、Bard、Google AI、相关 Google APIs）
+# =============================================================================
+HOST,ai.google.dev,AI
+HOST,alkalimakersuite-pa.clients6.google.com,AI
+HOST,makersuite.google.com,AI
+HOST-SUFFIX,bard.google.com,AI
+HOST-SUFFIX,deepmind.com,AI
+HOST-SUFFIX,deepmind.google,AI
+HOST-SUFFIX,gemini.google.com,AI
+HOST-SUFFIX,generativeai.google,AI
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,AI
+HOST-SUFFIX,apis.google.com,AI
+HOST-KEYWORD,colab,AI
+HOST-KEYWORD,developerprofiles,AI
+HOST-KEYWORD,generativelanguage,AI
+HOST,generativelanguage.googleapis.com,AI
+# Gemini CLI
+HOST-SUFFIX,cloudcode-pa.googleapis.com,AI
+
+# =============================================================================
+# Microsoft Copilot（Copilot、Bing、相关 MSN / Microsoft 域名）
+# =============================================================================
+HOST,api.msn.com,AI
+HOST,assets.msn.com,AI
+HOST,copilot.microsoft.com,AI
+HOST,gateway.bingviz.microsoft.net,AI
+HOST,gateway.bingviz.microsoftapp.net,AI
+HOST,in.appcenter.ms,AI
+HOST,location.microsoft.com,AI
+HOST,odc.officeapps.live.com,AI
+HOST,r.bing.com,AI
+HOST,self.events.data.microsoft.com,AI
+HOST,services.bingapis.com,AI
+HOST,sydney.bing.com,AI
+HOST,www.bing.com,AI
+HOST-SUFFIX,api.microsoftapp.net,AI
+HOST-SUFFIX,bing-shopping.microsoft-falcon.io,AI
+HOST-SUFFIX,challenges.cloudflare.com,AI
+HOST-SUFFIX,edgeservices.bing.com,AI
+HOST-KEYWORD,openaicom-api,AI
+IP-ASN,14061,AI
+
+# =============================================================================
+# xAI / Grok
+# =============================================================================
+HOST-SUFFIX,grok.com,AI
+HOST-SUFFIX,x.ai,AI
+
+# =============================================================================
+# Cursor
+# =============================================================================
+HOST-SUFFIX,cursor.sh,AI
+HOST-SUFFIX,cursor.com,AI
+HOST-SUFFIX,cursor-cdn.com,AI
+HOST-SUFFIX,cursorapi.com,AI
